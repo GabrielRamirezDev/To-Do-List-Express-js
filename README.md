@@ -1,7 +1,7 @@
 # To-Do List Express js
 
 ## About The Project
-![screenshot](portfolio image link here)
+![screenshot](https://www.gabe-dev.com/images/toDoExpress.png)
 
  To-Do web app made with express js
 
