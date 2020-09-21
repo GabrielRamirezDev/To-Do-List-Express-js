@@ -1,0 +1,23 @@
+body{
+  background-image: url('https://images.unsplash.com/photo-1581431886211-6b932f8367f2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80');
+  background-size: cover;
+  background-position: left;
+  height: 100vh;
+  font-family: 'Karma', serif
+}
+h1{
+  display: flex;
+  justify-content: center;
+}
+p{
+  display: flex;
+  justify-content: center;
+}
+.display{
+  display: flex;
+  justify-content: center;
+}
+.input{
+  display: flex;
+  justify-content: center;
+}
